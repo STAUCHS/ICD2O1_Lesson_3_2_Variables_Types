@@ -33,6 +33,19 @@ age = 15
 
 
 # QUESTION #4:
+# All of the variable names below can be used, but which of them is the best one to use?
+'''
+a
+A
+Area
+AREA
+area
+area_of_rectangle
+Area_Of_Rectangle
+'''
+# Delete this and write your answer in this comment
+
+# QUESTION #5:
 # How can you check the data type of a variable if you are unsure?
 '''
 Delete this and write your answer in this multi-line comment
