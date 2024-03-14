@@ -13,12 +13,19 @@ num1 = 32.0 # delete this and put your answer here
 num2 = 32 # delete this and put your answer here
 num3 = "32" # delete this and put your answer here
 
-# QUESTION #2:
+# QUESTION #2 (a):
 # Identify the follwing three parts for the variable below
-mark = 82.5
-# Name: 
-# Type: 
-# Value: 
+mark = 82.0
+# Name: ____
+# Type: ____
+# Value: ____
+
+# QUESTION #2 (b):
+# Identify the follwing three parts for the variable below
+age = 15
+# Name: ____
+# Type: ____
+# Value: ____
 
 # QUESTION #3:
 # Create your own variable (make sure to follow the rules and best practices!)
