@@ -13,7 +13,7 @@
 >- Strings must be enclosed or surrounded by **single** *or* **double** quotes
 
 #### <ins>```Examples:```</ins>
--
+- 
 - 
 - 
 
@@ -24,8 +24,8 @@
 
 #### <ins>```Examples:```</ins>
 - 
--
--
+- 
+- 
 
 ### float
 >-  `float` is short for Floating-point number
@@ -34,8 +34,8 @@
 
 #### <ins>```Examples:```</ins>
 - 
--
--
+- 
+- 
 
 ## Variables
 Variables are a fundamental aspect in pretty much every programming languages.
