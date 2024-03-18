@@ -48,6 +48,7 @@ Variables are used to store information in a program so that it can be used late
 - Value
 
 ```Initializing a variable:```
+
 ![Variables](Variables.png)
 ```
 Notice that the data type is not shown in the picture above. Python knows what the data type will be based on what is stored in the variable. (e.g. If Python sees a string in the variable, it automatically knows that it is a string and stores this information in the background)
